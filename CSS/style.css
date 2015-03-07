@@ -1,0 +1,43 @@
+
+
+h1{
+  color:#0f1698;
+  text-align:center;
+  font-weight: normal;
+  font-family:"Century Gothic", Arial, sans-serif;
+}
+
+
+#construction{
+    color:#0f1698;
+    text-align:center;
+    font-family:"Century Gothic", Arial, sans-serif;
+    font-size: 75px;
+    font-weight: bold;
+}
+
+p{
+  font-family: "American Typewriter", Courier, serif;
+  font-size: 14pt;
+  text-align: center;
+  color:#0f1698;
+}
+
+.homeNav {
+  width: 100%;
+
+}
+
+.circleTop{
+  padding-top: 20px;
+}
+
+.circleBottom{
+  padding-bottom: 20px;
+}
+
+.navBar{
+  width: 67%;
+  margin-right: auto;
+  margin-left: auto;
+}
